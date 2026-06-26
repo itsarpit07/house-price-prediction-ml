@@ -36,7 +36,6 @@ This project was built as part of Kaggle's *Intro to Machine Learning* course an
 - Report validation metrics (MAE/RMSE) for model comparison
 
 ## 📎 Links
-- Kaggle Notebook: *[add your notebook link here]*
 - Competition Page: [Home Data for ML Course](https://www.kaggle.com/c/home-data-for-ml-course)
 
 ## 🙋 About
